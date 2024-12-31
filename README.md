@@ -1,4 +1,4 @@
-<img src="banniere.png" alt="Texte alternatif" style="width: 100%;">
+<img src="banner.png" alt="Texte alternatif" style="width: 100%;">
 
 
 ## 🎯 About Me
