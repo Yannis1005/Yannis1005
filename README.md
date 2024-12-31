@@ -15,7 +15,7 @@ I am a third-year student pursuing a Bachelor of Technology (BUT) in Computer Sc
 | The Orchard        | Digital version of the board game "The Orchard"       | Java, JavaFX             | [GitHub](#)           |
 | Weather App        | Mobile weather application                            | Kotlin, REST API         | [GitHub](#)           |
 | Legrand Project    | Application analyzing molding sheets to extract data | Node.js, JavaScript, HTML, CSS | [GitHub](#)    |
-| Filmotheque      | Movie management app with social network features     | React, MongoDB, Cassandra | [GitHub](#)          |
+| Filmotheque      | Movie management app with social network features     | React, Express, MongoDB, Cassandra | [GitHub](#)          |
 
 ---
 
