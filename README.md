@@ -21,14 +21,20 @@ I am a third-year student pursuing a Bachelor of Technology (BUT) in Computer Sc
 
 ## 🔧 Technical Skills
 
-- **Languages**: `Python`, `JavaScript`, `Java`, `PHP`, `HTML`, `CSS`
-- **Frameworks & Libraries**: `React`, `Node.js`, `Laravel`
-- **Tools**: `Git`, `Docker`, `Postman`
-- **Databases**: `MongoDB`, `MySQL`, `Cassandra`
-- **Other**: `REST APIs`, `Unit Testing`
-
----
-
+- **Languages**:  
+  ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![PHP](https://skillicons.dev/icons?i=php) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Rust](https://skillicons.dev/icons?i=rust) ![Bash](https://skillicons.dev/icons?i=bash) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+- **Frameworks**:  
+  ![React](https://skillicons.dev/icons?i=react) ![Laravel](https://skillicons.dev/icons?i=laravel)
+- **Databases**:  
+  ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Cassandra](https://skillicons.dev/icons?i=cassandra)
+- **Operating Systems**:  
+  ![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux) <img src="android.png" alt="Android" width="48" height="48">
+- **Virtualization**:  
+  ![Docker](https://skillicons.dev/icons?i=docker) <img src="proxmox.png" alt="Proxmox" width="48" height="48">
+- **Servers**:  
+  ![Nginx](https://skillicons.dev/icons?i=nginx) <img src="apache-dark.png" alt="Apache" width="48" height="48"> ![Node.js](https://skillicons.dev/icons?i=nodejs)
+- **Methods & Tools**:  
+  ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) <img src="virtualbox-light.png" alt="Apache" width="48" height="48"> ![WordPress](https://skillicons.dev/icons?i=wordpress) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![Maven](https://skillicons.dev/icons?i=maven)
 ## 📫 How to Reach Me
 
 - **Email**: [yannis.boisserie@etu.unilim.fr](mailto:yannis.boisserie@etu.unilim.fr)  
