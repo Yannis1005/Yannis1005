@@ -6,16 +6,7 @@
 Bonjour, je suis Yannis Boisserie.  
 Je suis étudiant en troisième année de BUT informatique à l'IUT du Limousin.
 
----
-
-## 💼 Mes Projets
-
-| Nom du Projet      | Description                                           | Technologies             | Liens                 |
-|--------------------|-------------------------------------------------------|--------------------------|-----------------------|
-| Le Verger        | Version numérique du jeu de société "The Orchard"     | Java, JavaFX             | [GitHub](#)           |
-| Weather App  | Application mobile de météo                           | Kotlin, API REST         | [GitHub](#)           |
-| Projet Legrand     | Application analysant des feuilles de moulage pour extraire des données | Node.js, JavaScript, HTML, CSS | [GitHub](#)    |
-| Filmothèque        | Application de gestion de films avec des fonctionnalités de réseau social | React, Express, MongoDB, Cassandra | [GitHub](#)          |
+Depuis mon plus jeune âge, je suis fasciné par l'informatique, les technologies et les possibilités infinies qu'elles offrent. J'aime explorer de nouveaux langages de programmation, développer des applications et résoudre des problèmes. Cette passion m'a conduit à poursuivre des études en informatique et à constamment chercher à améliorer mes compétences.
 
 ---
 
@@ -35,6 +26,27 @@ Je suis étudiant en troisième année de BUT informatique à l'IUT du Limousin.
   ![Nginx](https://skillicons.dev/icons?i=nginx) <img src="apache-dark.png" alt="Apache" width="48" height="48"> ![Node.js](https://skillicons.dev/icons?i=nodejs)
 - **Méthodes & Outils**:  
   ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) <img src="virtualbox-light.png" alt="VirtualBox" width="48" height="48"> ![WordPress](https://skillicons.dev/icons?i=wordpress) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![Maven](https://skillicons.dev/icons?i=maven)
+
+---
+
+## 🌟 Qualités
+
+- Autonome
+- Rigoureux
+- Mesuré
+- Esprit d'équipe
+- Curieux
+
+---
+
+## 💼 Mes Projets
+
+| Nom du Projet      | Description                                           | Technologies             | Liens                 |
+|--------------------|-------------------------------------------------------|--------------------------|-----------------------|
+| Le Verger        | Version numérique du jeu de société "Le Verger"     | Java, JavaFX             | [GitHub](#)           |
+| Weather App  | Application mobile de météo                           | Kotlin, API REST         | [GitHub](#)           |
+| Projet Legrand     | Application analysant des feuilles de moulage pour extraire des données | Node.js, JavaScript, HTML, CSS | [GitHub](#)    |
+| Filmothèque        | Application de gestion de films avec des fonctionnalités de réseau social | React, Express, MongoDB, Cassandra | [GitHub](#)          |
 
 ---
 
